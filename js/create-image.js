@@ -1,5 +1,5 @@
-import {getRandomInteger, getRandomArrayElement} from './util.js'
-import {generateComments} from './generate-comments.js'
+import {getRandomInteger, getRandomArrayElement} from './util.js';
+import {generateComments} from './generate-comments.js';
 
 const description = [
   'Пустые шезлонги на пляже',
@@ -39,4 +39,4 @@ const createImage = (i) => {
   };
 };
 
-export {createImage}
+export {createImage};

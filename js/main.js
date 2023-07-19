@@ -1,7 +1,3 @@
-import {similarImages} from './similar-images.js'
+import {renderingImages} from './popup.js';
 
-console.log(
-  similarImages
-);
-
-
+renderingImages();

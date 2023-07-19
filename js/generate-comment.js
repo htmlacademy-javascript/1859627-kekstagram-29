@@ -1,4 +1,4 @@
-import {getRandomInteger} from './util.js'
+import {getRandomInteger} from './util.js';
 
 const names = [
   'Артем',
@@ -27,4 +27,4 @@ const generateComment = (i) => {
   }
 }
 
-export {generateComment}
+export {generateComment};
